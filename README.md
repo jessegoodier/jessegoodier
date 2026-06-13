@@ -2,16 +2,10 @@
 
 # Jesse Goodier
 
-Engineer at Kubecost, building Kubernetes tooling
+Builder of stuff.
 
 [![GitHub](https://img.shields.io/badge/jessegoodier-181717?style=flat&logo=github&logoColor=white)](https://github.com/jessegoodier)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes_Enthusiast-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://github.com/jessegoodier)
-
-</div>
-
-<div align="center">
-
-Most of my work is in private repositories for Kubecost. In my free time  have been building tools that simplify Kubernetes workflows — from debugging pods to managing port-forwards.
 
 </div>
 
@@ -89,30 +83,7 @@ Most of my work is in private repositories for Kubecost. In my free time  have b
 </tr>
 </table>
 
----
 
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" />
-<img alt="GitHub Stats" src="https://github-readme-stats.jessegoodier.com/api?username=jessegoodier&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180" />
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.jessegoodier.com/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.jessegoodier.com/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=default&hide_border=true" />
-<img alt="Top Languages" src="https://github-readme-stats.jessegoodier.com/api/top-langs/?username=jessegoodier&layout=compact&langs_count=8&theme=default&hide_border=true" height="180" />
-</picture>
-
-</div>
-
----
-
-### Currently Working On
-
-- **[kdebug](https://github.com/jessegoodier/kdebug)** — Kubernetes debug tool (26 events, 6 PRs merged in the last 30 days)
-- **[kpf](https://github.com/jessegoodier/kpf)** — Kubernetes port-forward manager (22 events, 5 PRs merged in the last 30 days)
-- **[toolbox](https://github.com/jessegoodier/toolbox)** — Container toolbox image (15 events, 2 PRs merged in the last 30 days)
 
 ---
 
